@@ -10,7 +10,8 @@ This repository includes:
 - Performance Evaluation – Assessing accuracy, loss, and confusion matrix visualization.
 ---------------------------------------------------------------------
 
-![download](https://github.com/user-attachments/assets/b6de25bc-5ad4-470c-ac63-dc7a5c7de408)  ![images](https://github.com/user-attachments/assets/1fadf25b-848a-42ec-950c-0125f5c90047)
+![images](https://github.com/user-attachments/assets/1fadf25b-848a-42ec-950c-0125f5c90047)   ![images](https://github.com/user-attachments/assets/06fe6c8b-99cb-4948-a9b1-48c1cf0c0b3f)
+
 
 
 
